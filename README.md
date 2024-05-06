@@ -1,5 +1,5 @@
 # JavaScript-projects
-I have been learning JavaScript and tried to build things using it. These are some of my JavaScript projects.
+I build some projects using JavaScript. 
 
 They are:
 
