@@ -13,6 +13,11 @@ They are:
 
 ![image](https://github.com/BhavanaThedla/JavaScript-projects/assets/124247602/058563ad-8fca-4906-93f4-1d875fa47034)
 
+3: Live Code editor
+
+![image](https://github.com/BhavanaThedla/JavaScript-projects/assets/124247602/029aa648-58c1-48a4-8cd6-94ac8d6edf66)
+
+
 
 
 
